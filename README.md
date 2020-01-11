@@ -86,5 +86,7 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
     ![Maltego20](https://user-images.githubusercontent.com/31832154/72211090-f0eaa300-3492-11ea-951e-49c65085a20b.PNG)
 
-  
+    Found one of the IPs saved in the DNS’s cache which was still active or had ICMP enabled, so I was able to ping it:
+
+    ![Maltego21](https://user-images.githubusercontent.com/31832154/72211111-a3226a80-3493-11ea-8d8e-96ce081eb7ab.PNG)
   
