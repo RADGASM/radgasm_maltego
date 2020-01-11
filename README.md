@@ -90,3 +90,13 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
     ![Maltego21](https://user-images.githubusercontent.com/31832154/72211111-a3226a80-3493-11ea-8d8e-96ce081eb7ab.PNG)
   
+
+  Since I'm using the 'Community Edition', I get this error. Just ignore it.
+  ![Maltego22](https://user-images.githubusercontent.com/31832154/72211390-95bbaf00-3498-11ea-9c28-f8d8910514f1.PNG)
+
+
+
+10. Found old emails highlighted in yellow. I wonder if I can find newer ones? These also end in '.ch' which I've never seen before.
+
+  ![Maltego23](https://user-images.githubusercontent.com/31832154/72211457-8ab54e80-3499-11ea-84ab-faf10a51907e.PNG)
+
