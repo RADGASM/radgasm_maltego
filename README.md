@@ -99,4 +99,15 @@ If you want to run a specific machine that does a specific behavior only, go bac
 10. Found old emails highlighted in yellow. I wonder if I can find newer ones? These also end in '.ch' which I've never seen before.
 
   ![Maltego23](https://user-images.githubusercontent.com/31832154/72211457-8ab54e80-3499-11ea-84ab-faf10a51907e.PNG)
+  
+   
+   Tried pinging 'aol.ch'. Umm, huh?
+   ![Maltego24](https://user-images.githubusercontent.com/31832154/72211466-d23bda80-3499-11ea-8376-aa0ac7b8b047.PNG)
+
+
+
+11. Let’s take one of the emails ending in ‘.ch’ and see if we can enumerate further. Got an email address.
+
+    ![Maltego25](https://user-images.githubusercontent.com/31832154/72211486-1af39380-349a-11ea-86f4-7706a57e013c.PNG)
+
 
