@@ -78,7 +78,13 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
 
   ![Maltego18](https://user-images.githubusercontent.com/31832154/72211019-d237dc80-3491-11ea-94d1-1d547c7f0c9c.PNG)
+  
+  ![Maltego19](https://user-images.githubusercontent.com/31832154/72211070-b54fd900-3492-11ea-9df4-80590e63df75.PNG)
 
+
+9. You can find even old DNS servers by using ‘transform’. I wonder what would happen if these 'old' DNS servers were still enabled?
+
+    ![Maltego20](https://user-images.githubusercontent.com/31832154/72211090-f0eaa300-3492-11ea-951e-49c65085a20b.PNG)
 
   
   
