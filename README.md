@@ -31,3 +31,6 @@ After you create a new account, you'll see the following:
   ![Maltego7](https://user-images.githubusercontent.com/31832154/72210369-381f6680-3488-11ea-973f-056c32c1b6a5.PNG)
 
 
+4. You'll get to the following screenshot after clicking through. Open up a new machine:
+  ![Maltego8](https://user-images.githubusercontent.com/31832154/72210373-5d13d980-3488-11ea-9a38-95626953b7c1.PNG)
+ ![Maltego8_2](https://user-images.githubusercontent.com/31832154/72210851-65bbde00-348f-11ea-8643-8aa1a258703f.PNG)
