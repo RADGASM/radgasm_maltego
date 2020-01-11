@@ -125,3 +125,6 @@ If you want to run a specific machine that does a specific behavior only, go bac
     
     ![Maltego28](https://user-images.githubusercontent.com/31832154/72211528-ec29ed00-349a-11ea-9c15-e113afe23c35.PNG)
 
+
+## In conclusion, Maltego is a classic OSINT tool to sift through websites, servers and emails in a relationship-based,
+## graphical and visual way. There's more you can do with Maltego but thought this is a good start for those interested in OSINT.
