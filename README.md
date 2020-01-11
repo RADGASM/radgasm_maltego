@@ -28,4 +28,6 @@ After you create a new account, you'll see the following:
 
   ![Maltego5](https://user-images.githubusercontent.com/31832154/72210364-250c9680-3488-11ea-9bd0-a5738e8595c6.PNG)
   ![Maltego6](https://user-images.githubusercontent.com/31832154/72210366-2dfd6800-3488-11ea-99ad-3347410aad77.PNG)
+  ![Maltego7](https://user-images.githubusercontent.com/31832154/72210369-381f6680-3488-11ea-973f-056c32c1b6a5.PNG)
+
 
