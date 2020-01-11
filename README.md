@@ -115,3 +115,13 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
     ![Maltego26](https://user-images.githubusercontent.com/31832154/72211499-55f5c700-349a-11ea-9ab5-470c97e62e2b.PNG)
 
+
+    Just continuously right clicking on another related domain site and finding more email addresses:
+    
+    ![Maltego27](https://user-images.githubusercontent.com/31832154/72211515-b553d700-349a-11ea-9014-d5324305f33f.PNG)
+
+
+    Here's my last person:
+    
+    ![Maltego28](https://user-images.githubusercontent.com/31832154/72211528-ec29ed00-349a-11ea-9c15-e113afe23c35.PNG)
+
