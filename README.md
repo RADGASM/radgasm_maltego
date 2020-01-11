@@ -34,3 +34,9 @@ After you create a new account, you'll see the following:
 4. You'll get to the following screenshot after clicking through. Open up a new machine:
   ![Maltego8](https://user-images.githubusercontent.com/31832154/72210373-5d13d980-3488-11ea-9a38-95626953b7c1.PNG)
  ![Maltego8_2](https://user-images.githubusercontent.com/31832154/72210851-65bbde00-348f-11ea-8643-8aa1a258703f.PNG)
+ ![Maltego9](https://user-images.githubusercontent.com/31832154/72210816-03fb7400-348f-11ea-9d4b-5e8ce986074c.PNG)
+ 
+ 
+5. Create a new graph:
+  ![Maltego10](https://user-images.githubusercontent.com/31832154/72210821-0cec4580-348f-11ea-8674-60b9fba0c508.PNG)
+
