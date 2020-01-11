@@ -40,6 +40,21 @@ After you create a new account, you'll see the following:
 5. Create a new graph:
   ![Maltego10](https://user-images.githubusercontent.com/31832154/72210821-0cec4580-348f-11ea-8674-60b9fba0c508.PNG)
 
+
 Pay attentinon to the Entity pallet:
 
   ![Maltego11](https://user-images.githubusercontent.com/31832154/72210825-1fff1580-348f-11ea-99ad-4e5d96ea0112.PNG)
+  
+
+6. Drag and drop domain and double click to change the name to the domain/site of your choosing including the layout. I am using 
+Aol.com as an example in the screenshot below:
+  ![Maltego12](https://user-images.githubusercontent.com/31832154/72210926-630db880-3490-11ea-8be6-0d2386cb84b8.PNG)
+  
+  
+  Right click and find ‘all transforms’ (usually on top) and click the >> button right next to it which will showcase connected 
+  websites to your domain:
+  ![Maltego13](https://user-images.githubusercontent.com/31832154/72210929-6b65f380-3490-11ea-8a17-076e9274bf18.PNG)
+
+
+  
+  
