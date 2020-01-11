@@ -69,5 +69,16 @@ Aol.com as an example in the screenshot below:
    ![Maltego16](https://user-images.githubusercontent.com/31832154/72211005-a157a780-3491-11ea-8cde-f7eeb4719ebc.PNG)
 
 
+8. If you zoom out, you can also see a color guide tied to your domain:
+  
+  ![Maltego17](https://user-images.githubusercontent.com/31832154/72211007-a9174c00-3491-11ea-8759-2a5575340359.PNG)
+  
+  
+If you want to run a specific machine that does a specific behavior only, go back to your panel and select ‘company stalker’ as an example:
+
+
+  ![Maltego18](https://user-images.githubusercontent.com/31832154/72211019-d237dc80-3491-11ea-94d1-1d547c7f0c9c.PNG)
+
+
   
   
