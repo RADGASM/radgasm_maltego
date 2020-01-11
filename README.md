@@ -54,6 +54,19 @@ Aol.com as an example in the screenshot below:
   Right click and find ‘all transforms’ (usually on top) and click the >> button right next to it which will showcase connected 
   websites to your domain:
   ![Maltego13](https://user-images.githubusercontent.com/31832154/72210929-6b65f380-3490-11ea-8a17-076e9274bf18.PNG)
+  ![Maltego14](https://user-images.githubusercontent.com/31832154/72210930-73259800-3490-11ea-9315-b45802ddd7ef.PNG)
+
+
+7. Check out the different layouts under 'Layouts' as it loads or transforms:
+  ![Maltego15](https://user-images.githubusercontent.com/31832154/72210932-7c166980-3490-11ea-8ed0-ccafe574dc60.PNG)
+
+   This makes it easier for a user to view relationships in a less cumbersome, text-heavy way.
+  
+  
+  After Transform reaches 100% it will show all the related websites for your domain of choice on the right hand side. 
+  Click through each to see where it falls under the domain:
+  
+   ![Maltego16](https://user-images.githubusercontent.com/31832154/72211005-a157a780-3491-11ea-8cde-f7eeb4719ebc.PNG)
 
 
   
