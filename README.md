@@ -40,3 +40,6 @@ After you create a new account, you'll see the following:
 5. Create a new graph:
   ![Maltego10](https://user-images.githubusercontent.com/31832154/72210821-0cec4580-348f-11ea-8674-60b9fba0c508.PNG)
 
+Pay attentinon to the Entity pallet:
+
+  ![Maltego11](https://user-images.githubusercontent.com/31832154/72210825-1fff1580-348f-11ea-99ad-4e5d96ea0112.PNG)
