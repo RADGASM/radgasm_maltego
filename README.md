@@ -82,7 +82,7 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
   ![Maltego18](https://user-images.githubusercontent.com/31832154/72211019-d237dc80-3491-11ea-94d1-1d547c7f0c9c.PNG)
   
-  ![Maltego19](https://user-images.githubusercontent.com/31832154/72211070-b54fd900-3492-11ea-9df4-80590e63df75.PNG)
+  ![Maltego19 v2](https://user-images.githubusercontent.com/31832154/72212991-138db380-34b5-11ea-9d0c-b183a2712ea9.PNG)
 
 
 9. You can find even old DNS servers by using ‘transform’. I wonder what would happen if these 'old' DNS servers were still enabled?
@@ -101,7 +101,7 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
 10. Found old emails highlighted in yellow. I wonder if I can find newer ones? These also end in '.ch' which I've never seen before.
 
-  ![Maltego23](https://user-images.githubusercontent.com/31832154/72211457-8ab54e80-3499-11ea-84ab-faf10a51907e.PNG)
+ ![Maltego23 v2](https://user-images.githubusercontent.com/31832154/72212992-18526780-34b5-11ea-8922-feb6e327316b.PNG)
   
    
    Tried pinging 'aol.ch'. Umm, huh?
@@ -111,22 +111,22 @@ If you want to run a specific machine that does a specific behavior only, go bac
 
 11. Let’s take one of the emails ending in ‘.ch’ and see if we can enumerate further. Got an email address.
 
-    ![Maltego25](https://user-images.githubusercontent.com/31832154/72211486-1af39380-349a-11ea-86f4-7706a57e013c.PNG)
+    ![Maltego25 v2](https://user-images.githubusercontent.com/31832154/72213008-3750f980-34b5-11ea-8923-73733eac739e.PNG)
 
 
 12. Who is this guy? 
 
-    ![Maltego26](https://user-images.githubusercontent.com/31832154/72211499-55f5c700-349a-11ea-9ab5-470c97e62e2b.PNG)
+    ![Maltego26 v2](https://user-images.githubusercontent.com/31832154/72212995-1d171b80-34b5-11ea-9b6c-a68641c64b83.PNG)
 
 
     Just continuously right clicking on another related domain site and finding more email addresses:
     
-    ![Maltego27](https://user-images.githubusercontent.com/31832154/72211515-b553d700-349a-11ea-9014-d5324305f33f.PNG)
+    ![Maltego27 v2](https://user-images.githubusercontent.com/31832154/72213006-2ef8be80-34b5-11ea-8a3c-950a357fad3e.PNG)
 
 
     Here's my last person:
     
-    ![Maltego28](https://user-images.githubusercontent.com/31832154/72211528-ec29ed00-349a-11ea-9c15-e113afe23c35.PNG)
+    ![Maltego28 v2](https://user-images.githubusercontent.com/31832154/72212997-20aaa280-34b5-11ea-9933-531ee2436bdb.PNG)
 
 
 ## In conclusion, Maltego is a classic OSINT tool to sift through websites, servers and emails in a relationship-based, graphical and visual way. There's more you can do with Maltego but this page is meant to kickstart ideas for those interested in OSINT.
